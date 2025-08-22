@@ -1,5 +1,5 @@
 # VELMRQ Offline Key Generator
-
+**Author / Project Maintainer:** Mitar Nikić
 ---
 
 ## Summary
