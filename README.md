@@ -1,5 +1,8 @@
 # VELMRQ Offline Key Generator
-**Author / Project Maintainer:** Mitar Nikić
+
+**Author / Project Maintainer:** Mitar Nikić  
+**Website:** [https://velmrq.com](https://velmrq.com)  
+**Support Email:** [support@velmrq.com](mailto:support@velmrq.com)
 ---
 
 ## Summary
